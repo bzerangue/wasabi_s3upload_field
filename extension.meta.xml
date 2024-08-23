@@ -11,9 +11,13 @@
     <authors>
         <author>
             <name github="symphonists" symphony="community">Symphony Community</name>
+            <name github="bzerangue" symphony="bzerangue">Brian Zerangue</name>
         </author>
     </authors>
     <releases>
+        <release version="0.9.3" date="2024-08-23" min="2.5.x" max="2.x.x">
+            * Migrated from Amazon S3 Field to Wasabi S3
+        </release>
         <release version="0.9.2" date="2018-04-09" min="2.3.1" max="2.x.x">
             * Remove use of `/e` modifier for PHP 7 compatibility
         </release>
