@@ -1,14 +1,14 @@
-# Field: Amazon S3 File Upload
+# Field: Wasabi S3 File Upload
 
-This extension functions as a basic replacement for file uploads, allowing hosting on Amazon S3 (it requires an [Amazon S3 account](http://aws.amazon.com/s3/)). Uploaded files are world readable. It is not considered feature-complete; there is much additional functionality that could be added . If you have input, please contact us at the [Symphony forum](http://getsymphony.com).
+This extension functions as a basic replacement for file uploads, allowing hosting on Wasabi Hot Cloud Storage (S3 Compatible) (it requires an [Wasabi account](http://wasabi.com/)). Uploaded files are world readable. It is not considered feature-complete; there is much additional functionality that could be added . If you have input, please contact us at the [Symphony forum](https://getsymphony.com).
 
 
 ## Installation
 
-1. Upload `/s3upload_field` to your Symphony `/extensions` folder.
-2. Enable it by selecting the "Field: Amazon S3 Upload", choose Enable from the with-selected menu, then click Apply.
+1. Upload `/wasabi_s3upload_field` to your Symphony `/extensions` folder.
+2. Enable it by selecting the "Field: Wasabi S3 Upload", choose Enable from the with-selected menu, then click Apply.
 3. Under Preferences, add your S3 Access Key ID and Secret Access Key.
-4. You can now add the "Amazon S3 File Upload" field to your sections. Select the bucket you wish to store files in from the dropdown.
+4. You can now add the "Wasabi S3 File Upload" field to your sections. Select the bucket you wish to store files in from the dropdown.
 
 ## Origin
 
